@@ -12,4 +12,4 @@ This project applies K-Means clustering on retail customer data to segment them 
 Run `customer_segmentation.ipynb` in Jupyter Notebook.
 
 ## Output
-![]()
+![](assets/Screenshot.png)
